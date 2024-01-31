@@ -1,0 +1,177 @@
+body {
+    /* background: black; */
+    font-family: 'Happy Monkey', system-ui;
+    text-align: center;
+    color: #fbc403;
+    background: #0a0a0a;
+   
+
+
+}
+
+
+#img-r {
+    border-radius: 100px;
+    width: 200px;
+    border: 2px solid yellow;
+
+
+}
+
+h1, h2, h3, h4, p {
+
+    text-shadow: 0 0 1px white;
+
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+h2, h4 {
+    color: black;
+    background: #fbc403;
+    
+
+}
+
+#age {
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin: 20px 0 10px 0;
+
+}
+
+#date {
+    margin: 0;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+
+
+.gift-1 {
+    margin-top: 50px;
+}
+
+.head2 {
+    background: 0;
+    color:#fbc403;
+    margin-bottom:20pxpx;
+
+}
+
+
+#head3 {
+    margin-top: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.img-birthday {
+    display: block;
+    margin: 0 auto;
+    background-size: contain;
+    background-image: url("img/hbd.jpg");
+    width: 400px;
+    height: 400px;
+
+    border-radius: 5px;
+    border: 5px solid #fbc403;
+
+}
+
+.img-birthday:hover {
+    background-image: url("img/giphy1.gif");
+
+
+}
+
+.img-birthday1 {
+    display: block;
+    margin: 0 auto;
+    background-size: contain;
+    background-image: url("img/hbd1.jpg");
+    width: 400px;
+    height: 400px;
+
+    border-radius: 5px;
+    border: 5px solid #fbc403;
+
+}
+
+.img-birthday1:hover {
+    background-image: url("img/giphy.gif");
+
+
+}
+
+.margin2 {
+    margin-top: 50px;
+}
+
+
+.img-birthday2 {
+    display: block;
+    margin: 0 auto;
+    background-size: contain;
+    background-image: url("img/hbd2.jpeg");
+    width: 400px;
+    height: 400px;
+
+    border-radius: 5px;
+    border: 5px solid #fbc403;
+
+}
+
+.img-birthday2:hover {
+    background-image: url("img/giphy2.webp");
+
+
+}
+
+
+.img-birthday3 {
+    display: block;
+    margin: 0 auto;
+    background-size: contain;
+    background-image: url("img/hbd2.jpeg");
+    width: 400px;
+    height: 200px;
+
+    border-radius: 5px;
+    border: 5px solid #fbc403;
+
+}
+
+#img-birthday3:hover {
+    background-image: url("img/cheers.webp");
+
+
+
+}
+
+
+#last {
+    margin-top: 50px;
+}
+
+#here {
+    font-style: italic;
+}
+
+/* pink #EFB0C9
+blue #a2d2ff
+white #fffff */
+
+/* 
+black #151515,
+black1 #0a0a0a, 
+cream #fbfcd4, 
+yello #ffdd03 
+dark yellow #fbc403. */
